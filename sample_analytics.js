@@ -1,5 +1,5 @@
 // CREATE:
-// 1.Insert a new customer document with the following information:  
+// 1.Insert a new customer document with the following information:
 // {
 //   "username": "jdoe",
 //   "name": "John Doe",
@@ -18,7 +18,7 @@
 //   }
 // }
 
-// 2.Insert a new transaction in the `transactions` collection for account `371138` with the following data:  
+// 2.Insert a new transaction in the `transactions` collection for account `371138` with the following data:
 // {
 //   "account_id": 371138,
 //   "transaction_count": 1,
@@ -47,7 +47,7 @@
 // -----------------------------------------------------------------------------------------------------------------------------
 
 // UPDATE:
-// 7.Update the account with ID `371138` in the `accounts` collection to add a new product `"RealEstate"`. 
+// 7.Update the account with ID `371138` in the `accounts` collection to add a new product `"RealEstate"`.
 // 8.Update the customer document with `username: "fmiller"`, adding a new account ID `111111` to the `accounts` array.
 // 9.Update the transaction with `account_id: 316726` where the `symbol` is "znga" to change the `transaction_code` to "buy" and the `amount` to 5000.
 
